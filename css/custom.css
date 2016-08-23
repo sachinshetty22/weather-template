@@ -1,0 +1,17 @@
+.hero {
+    background-color: #8e44ad;
+    color: #fff;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#maintemp {
+    font-size: 200px;
+}
+.mainsym
+{
+    font-size: 120px;
+}
+.typebutton{
+    align-items: baseline;
+}
