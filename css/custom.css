@@ -15,3 +15,45 @@
 .typebutton{
     align-items: baseline;
 }
+
+.hero .typebutton{
+
+       position: relative;
+   
+    bottom: 113px;
+
+}
+
+.mainsym .wi{
+
+    position: relative;
+    bottom: 91px;
+}
+
+
+
+@media screen and (max-width: 550px){
+.mainsym .wi {
+    position: relative;
+    bottom: 49px;
+     right: 0; 
+    font-size: 59px;
+}
+
+#maintemp {
+    font-size: 96px;
+}
+
+.mainsym {
+    font-size: 48px;
+}
+
+.hero .typebutton {
+    position: relative;
+    bottom: 59px;
+   left: 0px; 
+}
+
+
+}
+
