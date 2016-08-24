@@ -42,7 +42,6 @@
 color: #fff;
 margin: 2px;
 
-
 }
 .sub-block .symb .wi{
     font-size: 60px;
@@ -67,6 +66,19 @@ margin: 2px;
 .sub-block-4{
     background-color: #16a085;
 }
+
+ @media (min-width: 992px) { 
+.sub-block{
+  width: 49.5%;
+}
+ }
+
+@media (min-width: 1200px) { 
+    .sub-block{
+  width: 24.5%;
+}
+
+ }
 
 
 
